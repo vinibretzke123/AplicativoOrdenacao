@@ -8,6 +8,7 @@ João Vinicius Bauer
 Leonardo Weihermann
 
 Rafael Lourenço da Cruz
+
 ---------------------
 
 Executar a partir da classe JanelaPrincipal.java
